@@ -1,0 +1,112 @@
+{
+  "profile": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "name": "Taufiq Dhanial Respati",
+    "age": 25,
+    "location": "Sleman, Yogyakarta",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel metus vitae neque viverra porta ut quis arcu. Vestibulum dignissim mauris non eros scelerisque condimentum. Fusce quis ligula sed tortor tincidunt gravida. Maecenas egestas varius leo, vitae congue sapien vehicula vitae. Etiam lacinia, lorem vel egestas ullamcorper, risus urna volutpat lorem, sit amet pellentesque enim orci sed tellus."
+  },
+  "educations": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "list": [
+      {
+        "school": "12 Senior High School Jakarta",
+        "startDate": "2010",
+        "endDate": "2013",
+        "study": "Science",
+        "description": "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris at vestibulum nisl. Integer a ante nec leo euismod blandit. Integer eu congue nulla. Curabitur sed metus eget purus gravida pharetra non id mauris. Nulla a dui molestie, sodales augue a, ultricies massa. Curabitur tempor nibh sed mi consectetur, sit amet feugiat magna varius."
+      },
+      {
+        "school": "Gadjah Mada University",
+        "startDate": "2013",
+        "endDate": "2021",
+        "study": "Electrical and Electronics Engineering - Bachelor of Science",
+        "description": "Ut scelerisque, tellus eu varius tristique, eros lacus sodales velit, dignissim volutpat ex mi id erat. Pellentesque lorem nibh, ultrices vel sapien sit amet, sagittis convallis magna. Integer vel iaculis justo, vitae tempus tortor. Quisque efficitur, est nec laoreet finibus, tortor lectus elementum enim, vitae consequat velit leo ac mi."
+      }
+    ]
+  },
+  "careers": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "list": [
+      {
+        "company": "PT Indolakto",
+        "startDate": "Jan 2017",
+        "endDate": "Feb 2017",
+        "role": "Internship",
+        "description": "Quisque facilisis condimentum pellentesque. Mauris sit amet nulla orci. Maecenas auctor magna a nulla pulvinar sagittis. Maecenas porttitor, sapien eget lobortis feugiat, felis ante eleifend enim, quis vulputate lectus erat a est."
+      }
+    ]
+  },
+  "certifications": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "list": [
+      {
+        "title": "PLC SCADA Training",
+        "organizer": "UGM - Schneider Electric Training Center",
+        "startDate": "2018",
+        "endDate": "2018",
+        "description": "Nunc lacinia erat quis urna convallis, sed varius nisi sollicitudin. Donec nibh nisi, molestie sed ultricies id, sodales at felis."
+      },
+      {
+        "title": "Junior Programmer Competency",
+        "organizer": "Minister of Communication and Informatics",
+        "startDate": "2019",
+        "endDate": "2019",
+        "description": "Nam eget pulvinar enim, pretium venenatis ante. Nulla commodo odio in sapien dapibus lacinia."
+      }
+    ]
+  },
+  "events": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "list": [
+      {
+        "title": "Kuliah Kerja Nyata(KKN) UGM",
+        "startDate": "2016",
+        "endDate": "2016",
+        "role": "Chief Coordinator",
+        "description": "Quisque rutrum, ligula viverra maximus placerat, sem lacus feugiat ligula, quis scelerisque nulla dolor vel tellus. Etiam faucibus sem et vehicula ultricies."
+      },
+      {
+        "title": "Elins Robot Competition(Ebotec)",
+        "startDate": "2015",
+        "endDate": "2015",
+        "role": "Chief Coordinator",
+        "description": "Sed iaculis arcu quis nisl egestas, feugiat rhoncus orci imperdiet. Nullam maximus turpis vitae euismod feugiat. Praesent eget elementum purus, nec aliquam lorem."
+      }
+    ]
+  },
+  "abilities": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "skills": [
+      "Python",
+      "C++",
+      "Javascript",
+      "HTML",
+      "CSS",
+      "JSON",
+      "MySQL",
+      "Command Line Interface",
+      "Object Oriented Programming",
+      "PLC"
+    ],
+    "languages": [
+      "Bahasa",
+      "English"
+    ],
+    "tools": [
+      "Windows 10",
+      "Linux",
+      "MS Office",
+      "Sublime Text",
+      "VS Code",
+      "Git",
+      "VNC"
+    ]
+  },
+  "contact": {
+    "shortDesc": "Lorem ipsum dolor sit amet",
+    "email": "taufiq_dhanil@gmail.com",
+    "linkedIn": "https://www.linkedin.com/in/taufiq-dhanial-respati-464b84122/",
+    "twitter": "https://www.twitter.com/danilrespati"
+  }
+}
